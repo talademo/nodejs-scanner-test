@@ -9,4 +9,4 @@ ADD simpleapp/ /website/simpleapp
 EXPOSE 8888
 CMD ["/usr/local/bin/node", "simpleapp/index.js"]
 
-LABEL x="a"
+LABEL x="b"
