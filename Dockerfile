@@ -13,4 +13,4 @@ COPY ./vulnerable-ssl-libs/*.* /usr/tempv/
 EXPOSE 8888
 CMD ["/usr/local/bin/node", "simpleapp/index.js"]
 
-LABEL x="c"
+LABEL x="a"
